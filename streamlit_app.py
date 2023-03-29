@@ -8,4 +8,3 @@ streamlit.write('Omega 3 & Blueberry Oatmeal')
 
 streamlit.write('Kale, Spinach & Rocket Smoothie')
 
-stramlit.write('Hard-Boiled Free-Range Egg')
